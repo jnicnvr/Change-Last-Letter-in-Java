@@ -1,9 +1,9 @@
 # Change the Last Letter in Java
- 
+ ```bash
 Write a Java program that changes all but the last four characters into '#'.
-
-Test Data
-
+```
+# Test Data
+```bash
 Input range value:
 
 12543996561
@@ -13,11 +13,9 @@ Input range value:
 123
 
 893914
-
-************************************
-Expected Output
-
-
+```
+# Expected Output
+```bash
 #######6561
 
 ####7512
@@ -25,3 +23,4 @@ Expected Output
 123
 
 ##3914
+```
